@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Microsoft Azure & VMs](https://github.com/Lex2207/MicrosoftAzureUtilization&VMEnvironments)
+  - [Microsoft Azure & VMs](https://github.com/Lex2207/Microsoft-Azure)
   - [OsTicket Install & Configuration](https://github.com/Lex2207/OsTicket Lab Example)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Lex2207/ticket-lifecycle)
 - <b>Microsoft Azure</b>
