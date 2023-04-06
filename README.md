@@ -5,7 +5,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Microsoft Azure & VMs](https://github.com/Lex2207/Microsoft-Azure)
-  - [OsTicket Install & Configuration](https://github.com/Lex2207/OsTicket Lab Example)
+  - [OsTicket Install & Configuration](https://github.com/Lex2207/OsTicket-Project)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Lex2207/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Lex2207/configure-ad)
