@@ -6,7 +6,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Microsoft Azure & VMs](https://github.com/Lex2207/Microsoft-Azure)
   - [OsTicket Install & Configuration](https://github.com/Lex2207/OsTicket-Project)
-  - [Active Directory Example](https://github.com/Lex2207/AD-Lab-Example)
+  - [Active Directory Lab](https://github.com/Lex2207/Active-Directory-Lab)
   
 
  
